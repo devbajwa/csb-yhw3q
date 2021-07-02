@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://devbajwa.github.io/csb-yhw3q/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://devbajwa.github.io/csb-yhw3q/static/js/main.7728ca27.chunk.js",
+    "main.js.map": "https://devbajwa.github.io/csb-yhw3q/static/js/main.7728ca27.chunk.js.map",
+    "runtime-main.js": "https://devbajwa.github.io/csb-yhw3q/static/js/runtime-main.080ac80b.js",
+    "runtime-main.js.map": "https://devbajwa.github.io/csb-yhw3q/static/js/runtime-main.080ac80b.js.map",
+    "static/js/2.4ce6c65d.chunk.js": "https://devbajwa.github.io/csb-yhw3q/static/js/2.4ce6c65d.chunk.js",
+    "static/js/2.4ce6c65d.chunk.js.map": "https://devbajwa.github.io/csb-yhw3q/static/js/2.4ce6c65d.chunk.js.map",
+    "index.html": "https://devbajwa.github.io/csb-yhw3q/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://devbajwa.github.io/csb-yhw3q/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.4ce6c65d.chunk.js.LICENSE.txt": "https://devbajwa.github.io/csb-yhw3q/static/js/2.4ce6c65d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.080ac80b.js",
+    "static/js/2.4ce6c65d.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.7728ca27.chunk.js"
+  ]
+}
